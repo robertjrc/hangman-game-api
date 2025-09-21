@@ -1,11 +1,9 @@
-import { Result } from "../../common/result.js";
-
 export class GroupRemoveWordByIdUsecase {
-    execute(currentWords, currentWordId) {
-        currentWords = currentWords.filter((jsonObject) => {
-            return jsonObject["id"] !== currentWordId;
+    execute(words, wordId) {
+        words = words.filter((_words) => {
+            return _words["id"] !== wordId;
         });
 
-        return Result.success("Word removed successfully.", currentWords);
+        return words;
     }
 }
