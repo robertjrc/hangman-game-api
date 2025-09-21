@@ -1,0 +1,13 @@
+{
+    "name": "hangman-game",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "license": "MIT",
+    "scripts": {
+        "test": "node --test"
+    },
+    "dependencies": {
+        "dotenv": "^17.2.2"
+    }
+}
