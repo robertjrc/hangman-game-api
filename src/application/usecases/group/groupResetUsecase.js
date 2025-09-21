@@ -8,6 +8,6 @@ export class GroupResetUsecase {
         newGroup.words = await importJson("../../infrastructure/seeds/words.json");
         newGroup.setCurrentInfo(newGroup.words);
 
-        newGroup;
+        return newGroup;
     }
 }
