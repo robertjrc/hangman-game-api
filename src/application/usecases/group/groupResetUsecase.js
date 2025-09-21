@@ -1,5 +1,4 @@
 import { Group } from "../../../domain/entities/Group.js";
-import { Result } from "../../common/result.js";
 import { importJson } from "../../utils/importJson.js";
 
 export class GroupResetUsecase {
@@ -9,6 +8,6 @@ export class GroupResetUsecase {
         newGroup.words = await importJson("../../infrastructure/seeds/words.json");
         newGroup.setCurrentInfo(newGroup.words);
 
-        return Result.success("Group reseted successfully.", newGroup);
+        newGroup;
     }
 }
