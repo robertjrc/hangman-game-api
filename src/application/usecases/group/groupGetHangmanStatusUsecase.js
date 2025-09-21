@@ -1,6 +1,4 @@
-import { Result } from "../../common/result.js";
-
-export class GroupHangmanUsecase {
+export class GroupGetHangmanStatusUsecase {
     execute(hangmanLevel) {
         const hangman = [
             "__\n|   |\n|  \n|\n|",
@@ -9,9 +7,9 @@ export class GroupHangmanUsecase {
             "__\n|   |\n|  O\n| /|\n|",
             "__\n|   |\n|  O\n| /|\\ \n|",
             "__\n|   |\n|  O\n| /|\\ \n| /",
-            "__\n|   |\n|  O\n| /|\\ \n| / \\"];
+            "__\n|   |\n|  O\n| /|\\ \n| / \\"
+        ];
 
-
-        return Result.success("", hangman[hangmanLevel]);
+        return hangman[hangmanLevel];
     }
 }
