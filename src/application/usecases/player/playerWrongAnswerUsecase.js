@@ -6,6 +6,6 @@ export class PlayerWrongAnswerUsecase {
         player.score = (player.score - 3 <= 0) ? 0 : player.score -= 3;
         player.moves += 1;
 
-        return Result.success("Player status updated successfully.", player);
+        return player;
     }
 }
