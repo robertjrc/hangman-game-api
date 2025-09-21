@@ -1,752 +1,1002 @@
 [
     {
         "id": 1,
-        "word": "casa",
-        "hint": "Lugar onde as pessoas moram"
+        "hint": "Estudo dos astros",
+        "word": "astronomia"
     },
     {
         "id": 2,
-        "word": "gato",
-        "hint": "Animal doméstico que mia"
+        "hint": "Palavra difícil de pronunciar",
+        "word": "travaLingua"
     },
     {
         "id": 3,
-        "word": "cachorro",
-        "hint": "Animal doméstico que late"
+        "hint": "Elemento químico Au",
+        "word": "ouro"
     },
     {
         "id": 4,
-        "word": "árvore",
-        "hint": "Planta grande com tronco e folhas"
+        "hint": "Sentimento de nostalgia",
+        "word": "saudade"
     },
     {
         "id": 5,
-        "word": "sol",
-        "hint": "Astro que ilumina o dia"
+        "hint": "Ato de investigar",
+        "word": "pesquisa"
     },
     {
         "id": 6,
-        "word": "lua",
-        "hint": "Astro visível à noite"
+        "hint": "Camada externa da Terra",
+        "word": "litosfera"
     },
     {
         "id": 7,
-        "word": "carro",
-        "hint": "Veículo com quatro rodas"
+        "hint": "Arte de bem falar",
+        "word": "oratoria"
     },
     {
         "id": 8,
-        "word": "livro",
-        "hint": "Objeto com páginas para leitura"
+        "hint": "Figura de linguagem exagero",
+        "word": "hiperbole"
     },
     {
         "id": 9,
-        "word": "mesa",
-        "hint": "Móvel usado para refeições ou trabalho"
+        "hint": "Língua da Grécia",
+        "word": "grego"
     },
     {
         "id": 10,
-        "word": "cadeira",
-        "hint": "Móvel para sentar"
+        "hint": "Ramo da biologia que estuda animais",
+        "word": "zoologia"
     },
     {
         "id": 11,
-        "word": "janela",
-        "hint": "Abertura na parede que deixa entrar luz"
+        "hint": "Fenômeno atmosférico com trovões",
+        "word": "tempestade"
     },
     {
         "id": 12,
-        "word": "porta",
-        "hint": "Usada para entrar ou sair de um cômodo"
+        "hint": "Corpo celeste que orbita estrela",
+        "word": "planeta"
     },
     {
         "id": 13,
-        "word": "rio",
-        "hint": "Curso de água natural"
+        "hint": "Ato de resistir",
+        "word": "resiliencia"
     },
     {
         "id": 14,
-        "word": "mar",
-        "hint": "Grande massa de água salgada"
+        "hint": "Área da medicina que estuda o coração",
+        "word": "cardiologia"
     },
     {
         "id": 15,
-        "word": "flor",
-        "hint": "Parte colorida de uma planta"
+        "hint": "Filosofia oriental do equilíbrio",
+        "word": "taoismo"
     },
     {
         "id": 16,
-        "word": "céu",
-        "hint": "Espaço acima da Terra onde vemos nuvens"
+        "hint": "Movimento artístico do séc. XIX",
+        "word": "romantismo"
     },
     {
         "id": 17,
-        "word": "nuvem",
-        "hint": "Formação de vapor d'água no céu"
+        "hint": "Estudo dos insetos",
+        "word": "entomologia"
     },
     {
         "id": 18,
-        "word": "estrela",
-        "hint": "Corpo celeste que brilha à noite"
+        "hint": "Pessoa que escreve poemas",
+        "word": "poeta"
     },
     {
         "id": 19,
-        "word": "pássaro",
-        "hint": "Animal com penas que voa"
+        "hint": "Substância que causa dependência",
+        "word": "entorpecente"
     },
     {
         "id": 20,
-        "word": "peixe",
-        "hint": "Animal que vive na água"
+        "hint": "Estudo dos terremotos",
+        "word": "sismologia"
     },
     {
         "id": 21,
-        "word": "bola",
-        "hint": "Objeto redondo usado em jogos"
+        "hint": "Palavra ao contrário",
+        "word": "anagrama"
     },
     {
         "id": 22,
-        "word": "fruta",
-        "hint": "Alimento doce que cresce em árvores"
+        "hint": "Animal símbolo da Austrália",
+        "word": "canguru"
     },
     {
         "id": 23,
-        "word": "banana",
-        "hint": "Fruta amarela e alongada"
+        "hint": "Arte de calcular",
+        "word": "aritmetica"
     },
     {
         "id": 24,
-        "word": "maçã",
-        "hint": "Fruta vermelha ou verde, comum em sobremesas"
+        "hint": "Deusa da sabedoria grega",
+        "word": "atena"
     },
     {
         "id": 25,
-        "word": "laranja",
-        "hint": "Fruta cítrica de cor alaranjada"
+        "hint": "Parte líquida do sangue",
+        "word": "plasma"
     },
     {
         "id": 26,
-        "word": "uva",
-        "hint": "Fruta pequena usada para fazer vinho"
+        "hint": "Medo irracional",
+        "word": "fobia"
     },
     {
         "id": 27,
-        "word": "pão",
-        "hint": "Alimento feito de farinha e assado"
+        "hint": "Extinção em massa pré-histórica",
+        "word": "dinossauros"
     },
     {
         "id": 28,
-        "word": "água",
-        "hint": "Líquido essencial para a vida"
+        "hint": "Ato de questionar",
+        "word": "indagacao"
     },
     {
         "id": 29,
-        "word": "fogo",
-        "hint": "Elemento que queima e produz calor"
+        "hint": "Conhecimento profundo",
+        "word": "sabedoria"
     },
     {
         "id": 30,
-        "word": "terra",
-        "hint": "Planeta onde vivemos"
+        "hint": "Estudo dos ossos",
+        "word": "osteologia"
     },
     {
         "id": 31,
-        "word": "vento",
-        "hint": "Movimento do ar"
+        "hint": "Objeto usado para observar estrelas",
+        "word": "telescopio"
     },
     {
         "id": 32,
-        "word": "chuva",
-        "hint": "Água que cai do céu"
+        "hint": "Corrente elétrica alternada",
+        "word": "alternada"
     },
     {
         "id": 33,
-        "word": "neve",
-        "hint": "Precipitação em flocos brancos e frios"
+        "hint": "Ato de transformar em vapor",
+        "word": "evaporar"
     },
     {
         "id": 34,
-        "word": "cidade",
-        "hint": "Lugar com muitos prédios e pessoas"
+        "hint": "Escrita feita à mão",
+        "word": "caligrafia"
     },
     {
         "id": 35,
-        "word": "vila",
-        "hint": "Pequeno povoado rural"
+        "hint": "Teoria que explica a origem das espécies",
+        "word": "evolucao"
     },
     {
         "id": 36,
-        "word": "rua",
-        "hint": "Caminho pavimentado em áreas urbanas"
+        "hint": "Medida de intensidade sonora",
+        "word": "decibel"
     },
     {
         "id": 37,
-        "word": "ponte",
-        "hint": "Estrutura que cruza rios ou vales"
+        "hint": "Estudo das plantas",
+        "word": "botanica"
     },
     {
         "id": 38,
-        "word": "trem",
-        "hint": "Veículo que anda sobre trilhos"
+        "hint": "Partícula de carga negativa",
+        "word": "eletron"
     },
     {
         "id": 39,
-        "word": "avião",
-        "hint": "Veículo que voa no céu"
+        "hint": "Ser mitológico metade homem metade cavalo",
+        "word": "centauro"
     },
     {
         "id": 40,
-        "word": "barco",
-        "hint": "Veículo que navega na água"
+        "hint": "Instrumento de sopro com som marcante",
+        "word": "saxofone"
     },
     {
         "id": 41,
-        "word": "sol",
-        "hint": "Estrela que aquece a Terra"
+        "hint": "Movimento cultural do séc. XX",
+        "word": "modernismo"
     },
     {
         "id": 42,
-        "word": "lua",
-        "hint": "Satélite natural da Terra"
+        "hint": "Estudo da mente humana",
+        "word": "psicologia"
     },
     {
         "id": 43,
-        "word": "estrela",
-        "hint": "Corpo celeste que brilha no céu noturno"
+        "hint": "Primeira civilização da Mesopotâmia",
+        "word": "sumerios"
     },
     {
         "id": 44,
-        "word": "montanha",
-        "hint": "Grande elevação de terra"
+        "hint": "Grande deserto da África",
+        "word": "sahara"
     },
     {
         "id": 45,
-        "word": "vale",
-        "hint": "Área baixa entre montanhas"
+        "hint": "Animal que muda de cor",
+        "word": "camaleao"
     },
     {
         "id": 46,
-        "word": "praia",
-        "hint": "Área arenosa à beira-mar"
+        "hint": "Sistema de escrita com desenhos",
+        "word": "hieroglifo"
     },
     {
         "id": 47,
-        "word": "areia",
-        "hint": "Material granulado encontrado em praias"
+        "hint": "Deusa egípcia da fertilidade",
+        "word": "isis"
     },
     {
         "id": 48,
-        "word": "rocha",
-        "hint": "Material duro que forma montanhas"
+        "hint": "Ponto mais alto da Terra",
+        "word": "everest"
     },
     {
         "id": 49,
-        "word": "floresta",
-        "hint": "Área com muitas árvores"
+        "hint": "Estudo dos números",
+        "word": "numerologia"
     },
     {
         "id": 50,
-        "word": "jardim",
-        "hint": "Área cultivada com plantas e flores"
+        "hint": "Substância que acelera reação química",
+        "word": "catalisador"
     },
     {
         "id": 51,
-        "word": "tigre",
-        "hint": "Grande felino com listras"
+        "hint": "Estudo dos vulcões",
+        "word": "vulcanologia"
     },
     {
         "id": 52,
-        "word": "elefante",
-        "hint": "Maior animal terrestre com tromba"
+        "hint": "Ato de duvidar",
+        "word": "ceticismo"
     },
     {
         "id": 53,
-        "word": "leão",
-        "hint": "Animal conhecido como rei da selva"
+        "hint": "Ciência que estuda fósseis",
+        "word": "paleontologia"
     },
     {
         "id": 54,
-        "word": "macaco",
-        "hint": "Animal que vive em árvores e é brincalhão"
+        "hint": "Medo de lugares fechados",
+        "word": "claustrofobia"
     },
     {
         "id": 55,
-        "word": "zebra",
-        "hint": "Animal com listras pretas e brancas"
+        "hint": "Poema de 14 versos",
+        "word": "soneto"
     },
     {
         "id": 56,
-        "word": "girafa",
-        "hint": "Animal com pescoço longo"
+        "hint": "Filósofo que escreveu 'A República'",
+        "word": "platao"
     },
     {
         "id": 57,
-        "word": "urso",
-        "hint": "Animal grande que hiberna no inverno"
+        "hint": "Camada gasosa da Terra",
+        "word": "atmosfera"
     },
     {
         "id": 58,
-        "word": "lobo",
-        "hint": "Animal que uiva e vive em matilha"
+        "hint": "Estudo dos microrganismos",
+        "word": "microbiologia"
     },
     {
         "id": 59,
-        "word": "raposa",
-        "hint": "Animal astuto com cauda fofa"
+        "hint": "Movimento artístico com Van Gogh",
+        "word": "expressionismo"
     },
     {
         "id": 60,
-        "word": "coelho",
-        "hint": "Animal pequeno que gosta de cenouras"
+        "hint": "Língua morta de Roma",
+        "word": "latim"
     },
     {
         "id": 61,
-        "word": "cavalo",
-        "hint": "Animal usado para corridas ou transporte"
+        "hint": "Primeira forma de escrita",
+        "word": "cuneiforme"
     },
     {
         "id": 62,
-        "word": "vaca",
-        "hint": "Animal que fornece leite"
+        "hint": "Gás essencial à respiração",
+        "word": "oxigenio"
     },
     {
         "id": 63,
-        "word": "porco",
-        "hint": "Animal de fazenda que vive na lama"
+        "hint": "Forma de governo de Atenas antiga",
+        "word": "democracia"
     },
     {
         "id": 64,
-        "word": "galinha",
-        "hint": "Ave que põe ovos"
+        "hint": "Movimento cultural da Idade Média",
+        "word": "escolastica"
     },
     {
         "id": 65,
-        "word": "pato",
-        "hint": "Ave que nada e grasna"
+        "hint": "Instrumento musical de cordas",
+        "word": "harpa"
     },
     {
         "id": 66,
-        "word": "ganso",
-        "hint": "Ave maior que um pato, com pescoço longo"
+        "hint": "Planeta mais próximo do Sol",
+        "word": "mercurio"
     },
     {
         "id": 67,
-        "word": "águia",
-        "hint": "Ave de rapina com visão aguçada"
+        "hint": "Primeiro homem a pisar na Lua",
+        "word": "armstrong"
     },
     {
         "id": 68,
-        "word": "falcao",
-        "hint": "Ave de rapina conhecida por sua velocidade"
+        "hint": "Arte de produzir vinho",
+        "word": "enologia"
     },
     {
         "id": 69,
-        "word": "coruja",
-        "hint": "Ave noturna que pia"
+        "hint": "Movimento artístico de Da Vinci",
+        "word": "renascimento"
     },
     {
         "id": 70,
-        "word": "borboleta",
-        "hint": "Inseto com asas coloridas"
+        "hint": "Doença transmitida pelo mosquito Aedes",
+        "word": "dengue"
     },
     {
         "id": 71,
-        "word": "abelha",
-        "hint": "Inseto que produz mel"
+        "hint": "Estudo dos peixes",
+        "word": "ictiologia"
     },
     {
         "id": 72,
-        "word": "formiga",
-        "hint": "Inseto pequeno que trabalha em grupo"
+        "hint": "Partícula de carga positiva",
+        "word": "proton"
     },
     {
         "id": 73,
-        "word": "aranha",
-        "hint": "Aracnídeo que tece teias"
+        "hint": "Grande muralha asiática",
+        "word": "china"
     },
     {
         "id": 74,
-        "word": "escorpião",
-        "hint": "Aracnídeo com ferrão na cauda"
+        "hint": "Conjunto de crenças em vários deuses",
+        "word": "politeismo"
     },
     {
         "id": 75,
-        "word": "sapo",
-        "hint": "Anfíbio que pula e vive perto da água"
+        "hint": "Ramo da matemática que estuda formas",
+        "word": "geometria"
     },
     {
         "id": 76,
-        "word": "cobra",
-        "hint": "Réptil que rasteja e pode ser venenoso"
+        "hint": "Deusa grega do amor",
+        "word": "afrodite"
     },
     {
         "id": 77,
-        "word": "jacaré",
-        "hint": "Réptil grande que vive em rios"
+        "hint": "Arte de projetar construções",
+        "word": "arquitetura"
     },
     {
         "id": 78,
-        "word": "tatu",
-        "hint": "Animal com carapaça que cava buracos"
+        "hint": "Fenômeno óptico no céu",
+        "word": "arcoiris"
     },
     {
         "id": 79,
-        "word": "baleia",
-        "hint": "Maior mamífero marinho"
+        "hint": "Estudo do clima",
+        "word": "climatologia"
     },
     {
         "id": 80,
-        "word": "tubarão",
-        "hint": "Peixe predador com dentes afiados"
+        "hint": "Ciência que estuda o universo",
+        "word": "cosmologia"
     },
     {
         "id": 81,
-        "word": "golfinho",
-        "hint": "Mamífero marinho inteligente e amigável"
+        "hint": "Esqueleto externo dos insetos",
+        "word": "exoesqueleto"
     },
     {
         "id": 82,
-        "word": "polvo",
-        "hint": "Animal marinho com tentáculos"
+        "hint": "Língua oficial do Egito Antigo",
+        "word": "hieratico"
     },
     {
         "id": 83,
-        "word": "lula",
-        "hint": "Animal marinho com corpo alongado"
+        "hint": "Filósofo fundador da Academia",
+        "word": "socrates"
     },
     {
         "id": 84,
-        "word": "caranguejo",
-        "hint": "Crustáceo com pinças"
+        "hint": "Transformação de lagarta em borboleta",
+        "word": "metamorfose"
     },
     {
         "id": 85,
-        "word": "lagosta",
-        "hint": "Crustáceo com cauda longa"
+        "hint": "Maior planeta do Sistema Solar",
+        "word": "jupiter"
     },
     {
         "id": 86,
-        "word": "camarão",
-        "hint": "Pequeno crustáceo comestível"
+        "hint": "Cadeia montanhosa do Nepal",
+        "word": "himalaias"
     },
     {
         "id": 87,
-        "word": "foguete",
-        "hint": "Veículo que viaja ao espaço"
+        "hint": "Ato de consumir livros",
+        "word": "leitura"
     },
     {
         "id": 88,
-        "word": "ouriço",
-        "hint": "Animal marinho com espinhos"
+        "hint": "Movimento da Terra em torno do Sol",
+        "word": "translacao"
     },
     {
         "id": 89,
-        "word": "coral",
-        "hint": "Estrutura colorida no fundo do mar"
+        "hint": "Estudo dos seres vivos",
+        "word": "biologia"
     },
     {
         "id": 90,
-        "word": "alga",
-        "hint": "Planta que cresce na água"
+        "hint": "Doença viral contagiosa",
+        "word": "sarampo"
     },
     {
         "id": 91,
-        "word": "cacto",
-        "hint": "Planta do deserto com espinhos"
+        "hint": "Palavra com mesmo som mas sentido diferente",
+        "word": "homonimo"
     },
     {
         "id": 92,
-        "word": "bambu",
-        "hint": "Planta alta usada em construções"
+        "hint": "Grande filósofo alemão do idealismo",
+        "word": "hegel"
     },
     {
         "id": 93,
-        "word": "palmeira",
-        "hint": "Árvore tropical com folhas grandes"
+        "hint": "Animal símbolo do Egito",
+        "word": "gato"
     },
     {
         "id": 94,
-        "word": "orquídea",
-        "hint": "Flor exótica e delicada"
+        "hint": "Primeiro livro impresso",
+        "word": "biblia"
     },
     {
         "id": 95,
-        "word": "rosa",
-        "hint": "Flor conhecida pelo perfume"
+        "hint": "Movimento artístico do Cubismo",
+        "word": "picasso"
     },
     {
         "id": 96,
-        "word": "tulipa",
-        "hint": "Flor em forma de sino"
+        "hint": "Sistema de planetas e estrelas",
+        "word": "galaxia"
     },
     {
         "id": 97,
-        "word": "girassol",
-        "hint": "Flor que segue o sol"
+        "hint": "Estudo dos pássaros",
+        "word": "ornitologia"
     },
     {
         "id": 98,
-        "word": "margarida",
-        "hint": "Flor branca com centro amarelo"
+        "hint": "Substância que reduz velocidade de reação",
+        "word": "inibidor"
     },
     {
         "id": 99,
-        "word": "violeta",
-        "hint": "Pequena flor roxa"
+        "hint": "Deusa romana da caça",
+        "word": "diana"
     },
     {
         "id": 100,
-        "word": "lírio",
-        "hint": "Flor elegante usada em arranjos"
+        "hint": "Maior deserto gelado do planeta",
+        "word": "antartida"
     },
     {
         "id": 101,
-        "word": "música",
-        "hint": "Arte de combinar sons harmoniosamente"
+        "hint": "Arte de curar com agulhas",
+        "word": "acupuntura"
     },
     {
         "id": 102,
-        "word": "dança",
-        "hint": "Movimento corporal ao ritmo da música"
+        "hint": "Forma de governo sem rei",
+        "word": "republica"
     },
     {
         "id": 103,
-        "word": "pintura",
-        "hint": "Arte de criar imagens com tintas"
+        "hint": "Filósofo do 'mito da caverna'",
+        "word": "platao"
     },
     {
         "id": 104,
-        "word": "teatro",
-        "hint": "Arte de representar histórias no palco"
+        "hint": "Estudo das cavernas",
+        "word": "espeleologia"
     },
     {
         "id": 105,
-        "word": "cinema",
-        "hint": "Arte de produzir filmes"
+        "hint": "Metal líquido em temperatura ambiente",
+        "word": "mercurio"
     },
     {
         "id": 106,
-        "word": "livro",
-        "hint": "Objeto com histórias ou informações"
+        "hint": "Povo que construiu pirâmides",
+        "word": "egipcios"
     },
     {
         "id": 107,
-        "word": "poesia",
-        "hint": "Texto com ritmo e emoção"
+        "hint": "Estudo da velhice",
+        "word": "geriatria"
     },
     {
         "id": 108,
-        "word": "escultura",
-        "hint": "Arte de moldar figuras em materiais"
+        "hint": "Famoso dramaturgo inglês",
+        "word": "shakespeare"
     },
     {
         "id": 109,
-        "word": "fotografia",
-        "hint": "Arte de capturar imagens com câmera"
+        "hint": "Maior oceano do mundo",
+        "word": "pacifico"
     },
     {
         "id": 110,
-        "word": "violão",
-        "hint": "Instrumento musical de cordas"
+        "hint": "Movimento artístico de Salvador Dalí",
+        "word": "surrealismo"
     },
     {
         "id": 111,
-        "word": "piano",
-        "hint": "Instrumento musical com teclas"
+        "hint": "Transformação da água em gelo",
+        "word": "congelamento"
     },
     {
         "id": 112,
-        "word": "flauta",
-        "hint": "Instrumento musical de sopro"
+        "hint": "Deusa romana do amor",
+        "word": "venus"
     },
     {
         "id": 113,
-        "word": "tambor",
-        "hint": "Instrumento musical de percussão"
+        "hint": "Maior continente do planeta",
+        "word": "asia"
     },
     {
         "id": 114,
-        "word": "guitarra",
-        "hint": "Instrumento musical elétrico ou acústico"
+        "hint": "Animal símbolo do Natal",
+        "word": "rena"
     },
     {
         "id": 115,
-        "word": "saxofone",
-        "hint": "Instrumento de sopro com som marcante"
+        "hint": "Estudo dos vulcões submarinos",
+        "word": "vulcanismo"
     },
     {
         "id": 116,
-        "word": "trompete",
-        "hint": "Instrumento de sopro com som agudo"
+        "hint": "Filósofo que disse 'penso, logo existo'",
+        "word": "descartes"
     },
     {
         "id": 117,
-        "word": "violino",
-        "hint": "Instrumento de cordas tocado com arco"
+        "hint": "Arte de esculpir",
+        "word": "escultura"
     },
     {
         "id": 118,
-        "word": "teclado",
-        "hint": "Instrumento eletrônico com teclas"
+        "hint": "Camada mais quente do Sol",
+        "word": "nucleo"
     },
     {
         "id": 119,
-        "word": "bateria",
-        "hint": "Conjunto de tambores e pratos"
+        "hint": "Deusa grega da caça",
+        "word": "artemis"
     },
     {
         "id": 120,
-        "word": "festa",
-        "hint": "Evento de celebração com pessoas"
+        "hint": "Maior floresta tropical do mundo",
+        "word": "amazonica"
     },
     {
         "id": 121,
-        "word": "casamento",
-        "hint": "Cerimônia de união entre duas pessoas"
+        "hint": "Movimento artístico de Monet",
+        "word": "impressionismo"
     },
     {
         "id": 122,
-        "word": "aniversário",
-        "hint": "Comemoração do dia de nascimento"
+        "hint": "Esporte criado na Inglaterra",
+        "word": "futebol"
     },
     {
         "id": 123,
-        "word": "natal",
-        "hint": "Feriado que celebra o nascimento de Jesus"
+        "hint": "Maior mamífero terrestre",
+        "word": "elefante"
     },
     {
         "id": 124,
-        "word": "carnaval",
-        "hint": "Festa popular com desfiles e fantasias"
+        "hint": "Estudo das palavras",
+        "word": "lexicologia"
     },
     {
         "id": 125,
-        "word": "pascoa",
-        "hint": "Feriado que celebra a ressurreição"
+        "hint": "Movimento da Terra em torno de si",
+        "word": "rotacao"
     },
     {
         "id": 126,
-        "word": "feriado",
-        "hint": "Dia sem trabalho ou escola"
+        "hint": "Fenômeno de repetição de som",
+        "word": "eco"
     },
     {
         "id": 127,
-        "word": "viagem",
-        "hint": "Deslocamento para outro lugar"
+        "hint": "Ramo da física que estuda calor",
+        "word": "termodinamica"
     },
     {
         "id": 128,
-        "word": "férias",
-        "hint": "Período de descanso do trabalho ou escola"
+        "hint": "Primeira civilização da América",
+        "word": "maias"
     },
     {
         "id": 129,
-        "word": "hotel",
-        "hint": "Lugar para hospedagem de viajantes"
+        "hint": "Arte de construir barcos",
+        "word": "navalha"
     },
     {
         "id": 130,
-        "word": "mala",
-        "hint": "Objeto para carregar roupas em viagens"
+        "hint": "Maior felino do mundo",
+        "word": "tigre"
     },
     {
         "id": 131,
-        "word": "passaporte",
-        "hint": "Documento para viagens internacionais"
+        "hint": "Estudo das estrelas",
+        "word": "astrologia"
     },
     {
         "id": 132,
-        "word": "mapa",
-        "hint": "Representação gráfica de um lugar"
+        "hint": "Sistema de planetas",
+        "word": "sistema"
     },
     {
         "id": 133,
-        "word": "bússola",
-        "hint": "Instrumento que indica o norte"
+        "hint": "Primeiro imperador de Roma",
+        "word": "augusto"
     },
     {
         "id": 134,
-        "word": "estrada",
-        "hint": "Caminho para veículos"
+        "hint": "Arte de escrever à máquina",
+        "word": "datilografia"
     },
     {
         "id": 135,
-        "word": "túnel",
-        "hint": "Passagem subterrânea"
+        "hint": "Deusa da beleza romana",
+        "word": "venus"
     },
     {
         "id": 136,
-        "word": "farol",
-        "hint": "Estrutura que guia navios à noite"
+        "hint": "Maior montanha fora da Ásia",
+        "word": "aconcagua"
     },
     {
         "id": 137,
-        "word": "bicicleta",
-        "hint": "Veículo de duas rodas movido a pedal"
+        "hint": "Estudo das moedas",
+        "word": "numismatica"
     },
     {
         "id": 138,
-        "word": "moto",
-        "hint": "Veículo de duas rodas motorizado"
+        "hint": "Arte de prever o futuro",
+        "word": "adivinhacao"
     },
     {
         "id": 139,
-        "word": "ônibus",
-        "hint": "Veículo grande para transporte público"
+        "hint": "Animal marinho com tentáculos",
+        "word": "polvo"
     },
     {
         "id": 140,
-        "word": "metrô",
-        "hint": "Trem subterrâneo nas cidades"
+        "hint": "Movimento artístico medieval",
+        "word": "gotico"
     },
     {
         "id": 141,
-        "word": "táxi",
-        "hint": "Carro para transporte pago"
+        "hint": "Maior satélite da Terra",
+        "word": "lua"
     },
     {
         "id": 142,
-        "word": "trator",
-        "hint": "Veículo usado em fazendas"
+        "hint": "Estudo do calor da Terra",
+        "word": "geotermia"
     },
     {
         "id": 143,
-        "word": "caminhão",
-        "hint": "Veículo grande para cargas"
+        "hint": "Instrumento de sopro metálico",
+        "word": "trompete"
     },
     {
         "id": 144,
-        "word": "helicóptero",
-        "hint": "Veículo aéreo com hélices"
+        "hint": "Deusa da vitória grega",
+        "word": "nike"
     },
     {
         "id": 145,
-        "word": "balão",
-        "hint": "Veículo aéreo inflado com gás"
+        "hint": "Movimento artístico do barroco",
+        "word": "barroco"
     },
     {
         "id": 146,
-        "word": "foguete",
-        "hint": "Veículo que viaja ao espaço"
+        "hint": "Animal símbolo da China",
+        "word": "panda"
     },
     {
         "id": 147,
-        "word": "planeta",
-        "hint": "Corpo celeste que orbita uma estrela"
+        "hint": "Maior rio do mundo",
+        "word": "amazonas"
     },
     {
         "id": 148,
-        "word": "satélite",
-        "hint": "Objeto que orbita planetas"
+        "hint": "Estudo da luz",
+        "word": "optica"
     },
     {
         "id": 149,
-        "word": "cometa",
-        "hint": "Corpo celeste com cauda brilhante"
+        "hint": "Arte de contar histórias",
+        "word": "narrativa"
     },
     {
         "id": 150,
-        "word": "astronauta",
-        "hint": "Pessoa que viaja ao espaço"
+        "hint": "Filosofia do equilíbrio e virtude",
+        "word": "estoicismo"
+    },
+    {
+        "id": 151,
+        "hint": "Fenômeno de placas tectônicas",
+        "word": "terremoto"
+    },
+    {
+        "id": 152,
+        "hint": "Maior arquipélago do mundo",
+        "word": "indonesia"
+    },
+    {
+        "id": 153,
+        "hint": "Animal símbolo da África",
+        "word": "leao"
+    },
+    {
+        "id": 154,
+        "hint": "Arte de cozinhar",
+        "word": "culinaria"
+    },
+    {
+        "id": 155,
+        "hint": "Ciência que estuda rochas",
+        "word": "petrografia"
+    },
+    {
+        "id": 156,
+        "hint": "Movimento cultural de Sócrates",
+        "word": "sofismo"
+    },
+    {
+        "id": 157,
+        "hint": "Maior estrela conhecida",
+        "word": "betelgeuse"
+    },
+    {
+        "id": 158,
+        "hint": "Deus romano do mar",
+        "word": "netuno"
+    },
+    {
+        "id": 159,
+        "hint": "Instrumento musical de teclas",
+        "word": "piano"
+    },
+    {
+        "id": 160,
+        "hint": "Arte de projetar cidades",
+        "word": "urbanismo"
+    },
+    {
+        "id": 161,
+        "hint": "Primeira civilização da China",
+        "word": "xia"
+    },
+    {
+        "id": 162,
+        "hint": "Movimento artístico do jazz",
+        "word": "jazz"
+    },
+    {
+        "id": 163,
+        "hint": "Animal símbolo da Rússia",
+        "word": "urso"
+    },
+    {
+        "id": 164,
+        "hint": "Maior satélite de Júpiter",
+        "word": "ganimedes"
+    },
+    {
+        "id": 165,
+        "hint": "Estudo dos répteis",
+        "word": "herpetologia"
+    },
+    {
+        "id": 166,
+        "hint": "Deusa grega da colheita",
+        "word": "demeter"
+    },
+    {
+        "id": 167,
+        "hint": "Movimento artístico do punk",
+        "word": "punk"
+    },
+    {
+        "id": 168,
+        "hint": "Maior animal do planeta",
+        "word": "baleia"
+    },
+    {
+        "id": 169,
+        "hint": "Arte de medir o tempo",
+        "word": "cronologia"
+    },
+    {
+        "id": 170,
+        "hint": "Filósofo do niilismo",
+        "word": "nietzsche"
+    },
+    {
+        "id": 171,
+        "hint": "Movimento cultural das luzes",
+        "word": "iluminismo"
+    },
+    {
+        "id": 172,
+        "hint": "Maior deserto de areia",
+        "word": "sahara"
+    },
+    {
+        "id": 173,
+        "hint": "Estudo dos dentes",
+        "word": "odontologia"
+    },
+    {
+        "id": 174,
+        "hint": "Deus grego do vinho",
+        "word": "dionisio"
+    },
+    {
+        "id": 175,
+        "hint": "Instrumento musical de cordas friccionadas",
+        "word": "violino"
+    },
+    {
+        "id": 176,
+        "hint": "Arte de prever o clima",
+        "word": "meteorologia"
+    },
+    {
+        "id": 177,
+        "hint": "Maior cordilheira da América do Sul",
+        "word": "andes"
+    },
+    {
+        "id": 178,
+        "hint": "Movimento cultural islâmico medieval",
+        "word": "sufismo"
+    },
+    {
+        "id": 179,
+        "hint": "Estudo dos cérebros",
+        "word": "neurologia"
+    },
+    {
+        "id": 180,
+        "hint": "Deusa romana da sabedoria",
+        "word": "minerva"
+    },
+    {
+        "id": 181,
+        "hint": "Maior ilha do mundo",
+        "word": "groenlandia"
+    },
+    {
+        "id": 182,
+        "hint": "Movimento artístico do reggae",
+        "word": "reggae"
+    },
+    {
+        "id": 183,
+        "hint": "Animal símbolo do Canadá",
+        "word": "castor"
+    },
+    {
+        "id": 184,
+        "hint": "Arte de enterrar mortos",
+        "word": "sepultamento"
+    },
+    {
+        "id": 185,
+        "hint": "Estudo do som",
+        "word": "acustica"
+    },
+    {
+        "id": 186,
+        "hint": "Filósofo do comunismo",
+        "word": "marx"
+    },
+    {
+        "id": 187,
+        "hint": "Maior satélite da Terra",
+        "word": "lua"
+    },
+    {
+        "id": 188,
+        "hint": "Deus egípcio do sol",
+        "word": "ra"
+    },
+    {
+        "id": 189,
+        "hint": "Movimento artístico do rap",
+        "word": "rap"
+    },
+    {
+        "id": 190,
+        "hint": "Animal símbolo do Japão",
+        "word": "grou"
+    },
+    {
+        "id": 191,
+        "hint": "Arte de construir pontes",
+        "word": "engenharia"
+    },
+    {
+        "id": 192,
+        "hint": "Maior cadeia montanhosa do mundo",
+        "word": "himalaias"
+    },
+    {
+        "id": 193,
+        "hint": "Estudo dos vulcões extintos",
+        "word": "paleovulcanismo"
+    },
+    {
+        "id": 194,
+        "hint": "Deusa grega da sabedoria",
+        "word": "atena"
+    },
+    {
+        "id": 195,
+        "hint": "Movimento cultural indígena",
+        "word": "xamanismo"
+    },
+    {
+        "id": 196,
+        "hint": "Maior deserto frio",
+        "word": "antartida"
+    },
+    {
+        "id": 197,
+        "hint": "Animal símbolo da Austrália",
+        "word": "canguru"
+    },
+    {
+        "id": 198,
+        "hint": "Estudo do espaço sideral",
+        "word": "astronautica"
+    },
+    {
+        "id": 199,
+        "hint": "Deus nórdico do trovão",
+        "word": "thor"
+    },
+    {
+        "id": 200,
+        "hint": "Movimento cultural das cavernas",
+        "word": "trogloditismo"
     }
 ]
