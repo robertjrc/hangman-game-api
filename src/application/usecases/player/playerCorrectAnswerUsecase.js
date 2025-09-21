@@ -1,5 +1,3 @@
-import { Result } from "../../common/result.js";
-
 export class PlayerCorrectAnswerUsecase {
     execute(player) {
         player.hits += 1;
@@ -11,6 +9,6 @@ export class PlayerCorrectAnswerUsecase {
         if (winPercentage >= 51 && winPercentage <= 89) player.score += 5;
         if (winPercentage <= 50) player.score += 3;
 
-        return Result.success("Player status updated successfully.", player);
+        return player;
     }
 }
