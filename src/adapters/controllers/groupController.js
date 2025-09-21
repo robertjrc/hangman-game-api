@@ -5,13 +5,13 @@ import { GroupWordsEmptyVerify } from "../../application/usecases/group/groupWor
 import { GroupRemoveWordByIdUsecase } from "../../application/usecases/group/groupRemoveWordByIdUsecase.js";
 import { GroupResetUsecase } from "../../application/usecases/group/groupResetUsecase.js";
 import { GroupSaveUsecase } from "../../application/usecases/group/groupSaveUsecase.js";
-import { GroupSetWordUsecase } from "../../application/usecases/group/groupSetWordUsecase.js";
+import { GroupNewWordUsecase } from "../../application/usecases/group/groupNewWordUsecase.js";
 import { GroupInMemoryRepository } from "../../infrastructure/repositories/groupInMemoryRepository.js"
-import { GroupWordCheckUsecase } from "../../application/usecases/group/groupWordCheckUsecase.js";
-import { GroupHangmanLevelCheckUsecase } from "../../application/usecases/group/groupHangmanLevelCheckUsecase.js";
-import { GroupHangmanUsecase } from "../../application/usecases/group/groupHangmanUsecase.js";
-import { GroupCharCheckUsecase } from "../../application/usecases/group/groupCharCheckUsecase.js";
-import { GroupIsFinalCheckUsecase } from "../../application/usecases/group/groupIsFinalCheckUsecase.js";
+import { GroupFindCharUsecase } from "../../application/usecases/group/groupFindCharUsecase.js";
+import { GroupHangmanVerifyUsecase } from "../../application/usecases/group/groupHangmanVerifyUsecase.js";
+import { GroupGetHangmanStatusUsecase } from "../../application/usecases/group/groupGetHangmanStatusUsecase.js";
+import { GroupCharExistUsecase } from "../../application/usecases/group/groupCharExistUsecase.js";
+import { GroupIsMatchUsecase } from "../../application/usecases/group/groupIsMatchUsecase.js";
 
 class GroupController {
     #repository = new GroupInMemoryRepository();
@@ -28,7 +28,7 @@ class GroupController {
 
     async save(id, data) {
         const usecase = new GroupSaveUsecase(this.#repository);
-        return await usecase.execute(id, data);
+        await usecase.execute(id, data);
     }
 
     async reset(request) {
@@ -45,28 +45,28 @@ class GroupController {
         return new GroupRemoveWordByIdUsecase().execute(words, wordId);
     }
 
-    setWord(group) {
-        return new GroupSetWordUsecase().execute(group);
+    newWord(group) {
+        return new GroupNewWordUsecase().execute(group);
     }
 
-    wordCheck(char, currentInfo) {
-        return new GroupWordCheckUsecase().execute(char, currentInfo);
+    findChar(char, currentInfo) {
+        return new GroupFindCharUsecase().execute(char, currentInfo);
     }
 
-    charCheck(chars, char) {
-        return new GroupCharCheckUsecase().execute(chars, char);
+    charExist(chars, char) {
+        return new GroupCharExistUsecase().execute(chars, char);
     }
 
-    hangmanLevelCheck(hangmanLevel) {
-        return new GroupHangmanLevelCheckUsecase().execute(hangmanLevel);
+    hangmanVerify(hangmanLevel) {
+        return new GroupHangmanVerifyUsecase().execute(hangmanLevel);
     }
 
-    isFinal(currentInfo) {
-        return new GroupIsFinalCheckUsecase().execute(currentInfo);
+    isMatch(currentInfo) {
+        return new GroupIsMatchUsecase().execute(currentInfo);
     }
 
-    getHangmanLevel(hangmanLevel) {
-        return new GroupHangmanUsecase().execute(hangmanLevel);
+    getHangmanStatus(hangmanLevel) {
+        return new GroupGetHangmanStatusUsecase().execute(hangmanLevel);
     }
 
     async delete(id) {
